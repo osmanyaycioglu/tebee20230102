@@ -1,0 +1,6 @@
+osman,yaycıoğlu,1970-09-11,osmanyay,1923721
+osman,alaz,2000-01-15,osmanalaz,fdkhgf434
+ali,veli,2001-04-25,aliveli,438953475
+ayşe,yaycıoğlu,2003-08-12,ayseyay,1923721
+mehmet,telas,2013-05-25,mehmetm,fdkhgf434
+ali,katal,2011-04-25,aliveli,438953475
